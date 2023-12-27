@@ -23,13 +23,6 @@ while running:
                 background_color =  GREEN
             elif event.key == pygame.K_w:
                 background_color =  WHITE
-
-
-
-
-
-
-
     screen.fill(background_color)
     pygame.display.update()
 
